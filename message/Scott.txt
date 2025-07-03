@@ -1,0 +1,24 @@
+Dear Scott,
+
+I wanted to take a moment to sincerely thank you for your mentorship over the past few weeks. Working with you has been an incredibly valuable and enjoyable part of my QMA rotation.
+
+From the very start, when we were going through the Deep BSDE paper, I appreciated how patient and clear you were in walking me through the math. Your explanations helped me build a much stronger understanding of the theory, and I felt more confident tackling the rest of the project because of that.
+
+Throughout the internship, your support and involvement made a huge difference. You checked in often—sometimes multiple times a day—and always gave thoughtful, constructive feedback that helped move things forward. Even while you were on vacation, you still took the time to reply to my messages and offer guidance, which I truly appreciated. I also felt that you genuinely welcomed my ideas and perspectives, which made working together both collaborative and motivating.
+
+Your encouragement also gave me the confidence to keep exploring new approaches on my own, and I think we ended up with some truly meaningful results. Thank you for creating that kind of environment.
+
+I’ve attached all the core materials from my project here for your reference. Files marked with * are pieces I plan to continue working on:
+
+Code for all current methods
+
+Reference papers
+
+Slide deck (latest version) *
+
+Method summary notes *
+
+Thank you again for all your time, guidance, and encouragement. I learned a lot through this experience, and I’m really grateful to have had the chance to work with you.
+
+Warmly,
+Annie
