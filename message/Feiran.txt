@@ -1,0 +1,26 @@
+Hi Feiran,
+
+I just wanted to say thank you for being so open and kind during my time here. When I first reached out to you, I wasn’t sure how the conversation would go—I'm naturally more of an "I" and not great at leading conversations. But from the moment we spoke, you made me feel so welcomed. You were generous with your time, and you really didn’t hold back in sharing your experience, which I appreciate more than I can say.
+
+I really enjoyed learning about the Commodities desk from you—it was the first time I got such a vivid, first-hand perspective. You explained everything so clearly, and I came away with a much better understanding of the team, the work, and the kind of skills that matter. I also loved hearing about your own career journey. The way you self-taught C++ while working, and even built your own tool for the desk—that completely blew me away. It’s such a strong reminder that learning never stops, and that staying proactive and curious really makes a difference.
+
+One thing that really stuck with me was your attitude—not just about work, but about life. When you shared that you're also working on a game project outside of work, I was honestly amazed. It’s not easy to pour your energy into a demanding full-time job and still have the passion and discipline to pursue your own dreams. You made me realize it’s possible to do both, and that loving what you do—whether it’s a desk project or a personal one—can really light you up.
+
+I left that conversation feeling so encouraged. I saw in you someone who's smart, driven, and full of warmth. You're like a little sun: focused and steady in your own orbit, and quietly lighting up people around you. I hope I can carry that same energy with me as I keep learning and growing.
+
+I’ve attached all the core materials from my project here in case you’re curious. Files marked with * are ones I plan to continue refining:
+
+Code for all current methods
+
+Reference papers
+
+Slide deck (latest version) *
+
+Method summary notes *
+
+If you have any thoughts or questions, I’d love to hear them—feel free to reach out anytime!
+
+Wishing you the very best, both at work and with everything you're building on the side. And really—thank you again for being that light for me, even just in a short conversation. Hope we keep in touch!
+
+Warmly,
+Annie
