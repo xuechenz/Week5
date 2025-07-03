@@ -1,5 +1,0 @@
-Hi Robert — I’ve been thinking about how to best summarize my project. Since it’s quite research-oriented, I realized many details (like derivations, experiment setup, tuning, etc.) are hard to present clearly in slides. I thought a written summary might be a better format to make the ideas more accessible.
-
-I drafted one section on the Deep BSDE method (covering both BS and SABR models) — would you mind taking a quick look whenever you have time? No rush at all. If the format makes sense, I can continue writing up the rest over the weekend, before my next rotation starts.
-
-Thanks again!
