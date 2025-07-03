@@ -1,5 +1,10 @@
-Hi Robert — I’ve been thinking about how to best summarize my project. Since it’s quite research-oriented, I realized many details (like derivations, experiment setup, tuning, etc.) are hard to present clearly in slides. I thought a written summary might be a better format to make the ideas more accessible.
+Hi Shanxiao,
 
-I drafted one section on the Deep BSDE method (covering both BS and SABR models) — would you mind taking a quick look whenever you have time? No rush at all. If the format makes sense, I can continue writing up the rest over the weekend, before my next rotation starts.
+I wanted to say thank you for being so kind and responsive—especially when I first reached out on LinkedIn after hearing I’d be joining QMA. As someone who tends to be more introverted, your friendly response gave me the encouragement I needed to take that first step and made me feel much more comfortable about reaching out to others going forward.
 
-Thanks again!
+Even though we didn’t get to work together closely, I really appreciated how you always took the time to listen and offer thoughtful advice. One thing that really stuck with me was what you said about managing expectations when communicating with managers—it’s such a valuable mindset shift, and one that helped me start to think less like a student and more like a working professional.
+
+Thanks again for your support—it truly meant a lot. Hope we stay in touch!
+
+Best,
+Annie
